@@ -1,0 +1,238 @@
+﻿.body {
+    width: 100%;
+}
+
+.header {
+    width: 100%;
+    background-color: white;
+    display: flex;
+    column-gap: 3rem;
+    padding: 2rem;
+}
+
+.logo {
+    padding: 50px;
+    width: 100px;
+    height: 70px;
+    float: left;
+    position: absolute;
+}
+
+.menu {
+    padding-left: 300px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    text-align: right;
+}
+
+    .menu a {
+        padding: 20px;
+        font-size: 20px;
+        font-family: monospace;
+        cursor: pointer;
+        text-decoration: none
+    }
+
+.mid {
+    width: 100%;
+    height: 600px;
+    background-color: aliceblue;
+}
+
+.right {
+    width: 30%;
+    height: 600px;
+    float: left;
+    overflow: scroll;
+}
+
+.content {
+    overflow: scroll;
+    width: 70%;
+    height: 600px;
+    float: right;
+    margin-left: 40px;
+}
+
+.footer {
+    width: 100%;
+    color: white;
+    background-color: black;
+    height: 26px;
+}
+.img{
+    width:100%;
+    height: 50px;
+    text-align:center
+}
+.themdichvu {
+    overflow: scroll;
+    width: 40%;
+    height:auto;
+    float: right;
+}
+.xemdichvu {
+    width: 60%;
+    height: auto;
+    float: left;
+    overflow: scroll;
+}
+
+/*.body {
+    width: 100%;
+}
+
+.header {
+    width: 100%;
+    background-color: white;
+    display: flex;
+    column-gap: 3rem;
+    padding: 2rem;
+}
+
+.logo {
+    padding: 50px;
+    width: 100px;
+    height: 70px;
+    float: left;
+    position: absolute;
+}
+
+.menu {
+    padding-left: 500px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    text-align: right;
+}
+
+    .menu a {
+        padding: 20px;
+        font-size: 20px;
+        font-family: monospace;
+        cursor: pointer;
+        text-decoration: none
+    }
+
+.mid {
+    width: 100%;
+    height: 600px;
+    background-color: aliceblue;
+}
+
+.event {
+    font-size: 20px;
+    color: black;
+}
+
+.right {
+    width: 30%;
+    height: 600px;
+    float: left;
+    overflow: scroll;
+}
+
+.content {
+    overflow: scroll;
+    width: 70%;
+    height: 600px;
+    float: right;
+}
+
+.footer {
+    width: 100%;
+    color: white;
+    background-color: black;
+    height: 26px;
+}
+
+h4 {
+    text-align: center;
+    width: 70%;
+    height: 400px;
+    margin-left: 100px;
+    background-color: white;
+}
+
+    h4 a {
+        text-decoration: none;
+    }
+
+p.tieude {
+    text-align: center;
+    font-family: monospace;
+    font-size: 40px;
+}
+
+h1 {
+    width: 30%;
+    float: left;
+    margin-right: 5%;
+}
+
+p.text {
+    text-align: center;
+    width: 20.7%;
+    top: 450px;
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: black;
+    opacity: 0.5;
+}
+
+    p.text:hover {
+        opacity: 1;
+    }
+
+h2 {
+    width: 30%;
+    float: left;
+    margin-right: 5%;
+}
+
+p.text2 {
+    text-align: center;
+    width: 20.7%;
+    top: 450px;
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: black;
+    opacity: 0.5;
+}
+
+    p.text2:hover {
+        opacity: 1;
+    }
+
+h3 {
+    width: 30%;
+    float: right;
+}
+
+p.text3 {
+    text-align: center;
+    width: 20.7%;
+    top: 450px;
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: black;
+    opacity: 0.5;
+}
+
+    p.text3:hover {
+        opacity: 1;
+    }
+
+h4 {
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 40px;
+}*/
+

@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="xemphong1.Master.cs" Inherits="DoAN_QLKhachSan.xemphong1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="CSS1.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="header">
+            <asp:ImageButton ID="ImageButton1" CssClass="logo" ImageUrl="~/images/logo.png" runat="server" />
+            <div class="menu">
+               
+               <asp:HyperLink Font="monospace" ID="HyperLink1" NavigateUrl="~/dangnhap.aspx"  runat="server"></asp:HyperLink>
+                  
+                  <asp:HyperLink ID="hldangnhap" NavigateUrl="~/dangnhap.aspx"  runat="server">ĐĂNG NHẬP</asp:HyperLink>
+               
+        
+                <asp:HyperLink  ID="hltrangchu" NavigateUrl="~/trangchu.aspx"  runat="server">TRANG CHỦ</asp:HyperLink>
+                <asp:HyperLink  ID="hldiadiem" NavigateUrl="~/diadiemdulich.aspx" runat="server">ĐỊA ĐIỂM DU LỊCH</asp:HyperLink>
+                <asp:HyperLink  ID="hldanhsachphong" NavigateUrl="~/danhsachp.aspx"  runat="server">DANH SÁCH PHÒNG</asp:HyperLink>
+                <asp:HyperLink  ID="hllienhe" NavigateUrl="~/lienhe.aspx" runat="server">LIÊN HỆ</asp:HyperLink>
+                </div>
+        </div>
+        <div class="mid">
+        <div class="right">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            
+            </asp:ContentPlaceHolder>
+        </div>
+        <div class="content">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+            </div>
+        <div class="footer">
+            <marquee direction="left" loop="infinite" scrollamount="10">Khách Sạn Vinpearl.     Địa chỉ: 03 Quang Trung, Phường Thạch Thang, Quận Hải Châu, TP Đà Nẵng</marquee>
+           </div>
+    </form>
+</body>
+</html>

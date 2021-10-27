@@ -1,0 +1,112 @@
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\DoAN_QLKhachSan.dll.config
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\DoAN_QLKhachSan.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\DoAN_QLKhachSan.pdb
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\csc.exe
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\csc.exe.config
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\csc.rsp
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\csi.exe
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\csi.exe.config
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\csi.rsp
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.AppContext.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.Collections.Immutable.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.Console.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.IO.Compression.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.IO.FileSystem.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.IO.Pipes.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.Reflection.Metadata.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.Security.AccessControl.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.Security.Claims.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.Security.Principal.Windows.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.ValueTuple.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.Xml.XPath.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\vbc.exe
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\vbc.exe.config
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\vbc.rsp
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\VBCSCompiler.exe
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\roslyn\VBCSCompiler.exe.config
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\obj\Debug\DoAN_QLKhachSan.csprojAssemblyReference.cache
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\obj\Debug\DoAN_QLKhachSan.csproj.CoreCompileInputs.cache
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\obj\Debug\DoAN_QLKhachSan.csproj.CopyComplete
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\obj\Debug\DoAN_QLKhachSan.dll
+E:\CIOD4_ChuyenNganh\DoAN_QLKhachSan\DoAN_QLKhachSan\obj\Debug\DoAN_QLKhachSan.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\DoAN_QLKhachSan.dll.config
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\DoAN_QLKhachSan.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\DoAN_QLKhachSan.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\csc.exe
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\csc.rsp
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\csi.exe
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\csi.rsp
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.Security.Claims.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\vbc.exe
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\obj\Debug\DoAN_QLKhachSan.csprojAssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\obj\Debug\DoAN_QLKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\obj\Debug\DoAN_QLKhachSan.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\obj\Debug\DoAN_QLKhachSan.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoanChuyennganh\DoAN_QLKhachSan\obj\Debug\DoAN_QLKhachSan.pdb
